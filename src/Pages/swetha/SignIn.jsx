@@ -30,7 +30,7 @@ export default function Login() {
                     <input type="text" name='username' onChange={changeHandler} autoComplete='off' required style={{width:'250px'}} />
                 </label>
                 <label htmlFor="name">Email: <br />
-                    <input type="text" name='email' onChange={changeHandler} autoComplete='off' required style={{width:'250px'}} />
+                    <input type="email" name='email' onChange={changeHandler} autoComplete='off' required style={{width:'250px'}} />
                 </label>
                 <label htmlFor="name">Password: <br />
                     <input type="password" name='password' onChange={changeHandler} autoComplete='off' required style={{width:'250px'}} />
