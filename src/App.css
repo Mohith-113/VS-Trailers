@@ -2,8 +2,8 @@
 *{
   font-family: 'Chakra Petch', sans-serif;}
   .navbar{
-  background: rgb(1, 108, 118);
-  width: 100vw;
+/*   background: rgb(1, 108, 118);
+  width: 100vw; */
 }
 .navbar-brand,.list_item{
   color: #fff !important;
