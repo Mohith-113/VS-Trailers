@@ -8,6 +8,4 @@
     <artifactId>my-project</artifactId>
     <version>1.0.0</version>
 
-    <!-- Define your dependencies and build configuration here -->
-
 </project>
